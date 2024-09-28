@@ -1,2 +1,5 @@
-# flipkart-screenshot-test
-Snapshot captured and tested on features of flipkart site.
+# Flipkart Features Screenshots Captured 
+
+## Tests done on Flipkart Site using Selenium and Java.
+
+[Flipkart](https://www.flipkart.com/)
